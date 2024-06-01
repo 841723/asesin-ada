@@ -7,3 +7,10 @@
 Reune a 5 amigos y disfruta realizando acusaciones, reuniendo pruebas y compitiendo contra los demás detectives.
 
 Cuidado al entrar en el edificio y ¡mucha suerte a todos! 
+
+
+--- 
+
+- clone repository
+- run ```cd backend/api && npm run dev```
+- run ```cd front-end-web/front-end-react && npm run dev```
